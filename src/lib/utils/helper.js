@@ -13,8 +13,7 @@ import { getLeagueRecords } from './helperFunctions/leagueRecords'
 import { getAwards } from './helperFunctions/leagueAwards'
 import { cleanName, round, generateGraph, gotoManager, getAuthor, parseDate, getAvatar } from './helperFunctions/universalFunctions';
 import { predictScores } from './helperFunctions/predictOptimalScore';
-import { getBrackets } from './helperFunctions/leagueBrackets';
-import { getBlogPosts } from './helperFunctions/getBlogPosts';
+import { getBrackets } from './helperFunctions/leagueBrackets';\
 import { getLeagueStandings } from './helperFunctions/leagueStandings';
 
 export {
